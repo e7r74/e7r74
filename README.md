@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=70)
 # Hi there! I'm a Frontend Developer 💻
 
 I build modern web applications and websites, focusing on every detail of code and design to create seamless user experiences.
