@@ -29,7 +29,7 @@ I build modern web applications and websites, focusing on every detail of code a
 - 📫 How to reach me: **[Telegram](https://t.me/Joldassov)**
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e7r74&show_icons=true&theme=dark)
+
 
 ### 🚀 Technologies & Tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
