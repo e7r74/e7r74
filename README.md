@@ -1,44 +1,34 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fullstack%20Developer&fontSize=65)
 
-<!--
-## Hi there 👋
+# Hi there! I'm Yerkhan Joldassov 👋
 
-**e7r74/e7r74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack / Backend Developer** based in Almaty, Kazakhstan 🇰🇿  
+I build scalable web applications and microservices using **Java (Spring Boot)** on the backend and modern frameworks (**React / Next.js**) on the frontend.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=70)
-# Hi there! I'm a Frontend Developer 💻
-
-I build modern web applications and websites, focusing on every detail of code and design to create seamless user experiences.
+---
 
 ### 🛠 My Tech Stack:
-- **Core:** React, Redux (Toolkit), JavaScript.
-- **Styling:** Tailwind CSS, CSS3.
-- **Tools:** Git, Vite, Figma.
+- **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security, REST API, Microservices, Hibernate.
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS.
+- **Databases & Tools:** PostgreSQL, Docker, Docker Compose, Git, Postman, Vite, Vercel.
+
+---
 
 ### 🌱 About Me:
-- 🔭 I’m always looking for interesting projects where I can leverage my React skills.
+- 💻 **Current Projects:** 
+  - **Digital SU (Water Monitor)** — Hydrological monitoring web platform for Kazakh National Agrarian Research University *(digital-su.kz)*.
+  - **Music Streaming App** — Microservice architecture with Spring Boot backend, Spring Security, PostgreSQL & React frontend.
 - 📫 How to reach me: **[Telegram](https://t.me/Joldassov)**
 
 ---
 
-
 ### 🚀 Technologies & Tools:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
