@@ -12,15 +12,7 @@ I build scalable web applications and microservices using **Java (Spring Boot)**
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS.
 - **Databases & Tools:** PostgreSQL, Docker, Docker Compose, Git, Postman, Vite, Vercel.
 
----
 
-### 🌱 About Me:
-- 💻 **Current Projects:** 
-  - **Digital SU (Water Monitor)** — Hydrological monitoring web platform for Kazakh National Agrarian Research University *(digital-su.kz)*.
-  - **Music Streaming App** — Microservice architecture with Spring Boot backend, Spring Security, PostgreSQL & React frontend.
-- 📫 How to reach me: **[Telegram](https://t.me/Joldassov)**
-
----
 
 ### 🚀 Technologies & Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
